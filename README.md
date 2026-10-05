@@ -1,2 +1,2 @@
-# Meru-admissions-data-cleaning
-Data cleaning and preparation of Meru admissions data for analysis.
+Furaha-admissions-data-cleaning
+Data cleaning and preparation of  admissions data for analysis.
