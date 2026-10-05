@@ -1,3 +1,3 @@
 Furaha-admissions-data-cleaning
 
-Data cleaning and preparation of  admissions data for analysis.
+Data cleaning and preparation of Furaha admissions data for analysis.
